@@ -29,4 +29,4 @@ This will do the same except it prompts for each file before doing the replaceme
 
 # why did you do this?
 
-Because using `sed` for to recursively replace a word with another word is genuinely harder to figure out how to do than writing a go program to do it.
+Because using `sed` to recursively replace one word with another word is genuinely harder to figure out how to do than writing a go program to do it.
